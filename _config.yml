@@ -33,7 +33,7 @@ downloads:
   appstore: example.com
   github: https://github.com/mlemgroup/mlem
   
-logo: images/Mlem-ios.png
+logo: images/site-logo.png
 
 # Build settings
 remote_theme: pages-themes/minimal@v0.2.0
