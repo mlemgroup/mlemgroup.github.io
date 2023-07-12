@@ -25,14 +25,9 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mlem.group" # the base hostname & protocol for your site, e.g. http://example.com
 
-github:  mlemgroup
-
-show_downloads: true
-downloads:
-  testflight: https://testflight.apple.com/join/MelFP11Y
-  appstore: example.com
-  github: https://github.com/mlemgroup/mlem
-  
+appstore: about:blank
+testflight: https://testflight.apple.com/join/MelFP11Y
+    
 logo: images/site-logo.png
 
 # Build settings
