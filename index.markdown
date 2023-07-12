@@ -15,30 +15,28 @@ layout: default
 ## What is Mlem?
 Mlem is a client for [Lemmy](https://join-lemmy.org), a Reddit-esque, open-source link aggregator. With Mlem, you can effortlessly participate in the conversation across all Lemmy servers. 
 
-You can discuss and ask questions about Mlem at the [community on lemmy.ml](https://lemmy.ml/c/mlemapp).
-
 ## Why Use Mlem?
-Unlike many other clients, Mlem is designed to be easy to use first. Its UI is beautiful and intuitive, and it just gets out of your way so you can enjoy participating in the communities that matter to you the most.
-
-And that's not all; Mlem is also extensively optimized and performant, which means it will never be a performance and battery hog. You can scroll all day and night long!
+Mlem is the first native SwiftUI Lemmy client on the AppStore. It feels right at home on your 
+iPhone (and soon iPad and Mac). With tons of options for customizing your your experience.
 
 ## Want to chat about Mlem?
-Join our [Matrix room](https://matrix.to/#/#mlemapp:matrix.org).
+You can discuss and ask questions about Mlem at the [community on lemmy.ml](https://lemmy.ml/c/mlemapp).
+
+Live chat in our [Matrix chat room](https://matrix.to/#/#mlemapp:matrix.org).
+
+## License
+Mlem is fully open-source, licensed under GPL 3.0 with an addendum for compliance with the Apple App Store. See LICENSE for details.
+
+We accept pull requests and have love external contributions. Are we missing a feature, let us know on our [Issue Tracker](https://github.com/mlemgroup/mlemgroup.github.io/issues). Don't want to deal with the AppStore
+or TestFlight? Download the code and install the latest build for yourself. 
 
 ## Requirements
-
 Mlem supports any iPhone running iOS 16 and later.
 
 ## Roadmap
-
 As of now, Mlem is still in beta. While it already has many core features, there is still a lot to do. Follow me on my socials to always be up-to-date on Mlem's development!
 
-## License
-
-Mlem is fully open-source, licensed under GPL 3.0 with an addendum for compliance with the Apple App Store. See LICENSE for details.
-
 ## Dev Team
-
 - <a rel="me" href="https://techhub.social/@weston">Weston</a>
 - Eric
 - Darknavi
