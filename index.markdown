@@ -40,7 +40,7 @@ As of now, Mlem is still in beta. While it already has many core features, there
 
 ## Dev Team
 - <a rel="me" href="https://techhub.social/@weston">Weston</a>
-- Eric
-- Darknavi
-- ShadowJonathan
-- Mormaer
+- <a rel="me" href="https://github.com/EricBAndrews">Eric</a>
+- <a rel="me" href="https://github.com/JakeShirley">Darknavi</a>
+- <a rel="me" href="https://github.com/ShadowJonathan">ShadowJonathan</a>
+- <a rel="me" href="https://github.com/mormaer">Mormaer</a>
