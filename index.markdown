@@ -41,7 +41,7 @@ As of now, Mlem is still in beta. While it already has many core features, there
 ## The Mlem Group
 - <a rel="me" href="https://techhub.social/@weston">Weston</a>
 - <a rel="me" href="https://github.com/EricBAndrews">Eric</a>
-- <a rel="me" href="https://github.com/JakeShirley">Darknavi</a>
+- <a rel="me" href="https://github.com/JakeShirley">Jake Shirley (darknavi)</a>
 - <a rel="me" href="https://github.com/ShadowJonathan">ShadowJonathan</a>
 - <a rel="me" href="https://github.com/mormaer">Mormaer</a>
 
