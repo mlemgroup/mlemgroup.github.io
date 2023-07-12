@@ -36,3 +36,11 @@ As of now, Mlem is still in beta. While it already has many core features, there
 ## License
 
 Mlem is fully open-source, licensed under GPL 3.0 with an addendum for compliance with the Apple App Store. See LICENSE for details.
+
+## Dev Team
+
+- <a rel="me" href="https://techhub.social/@weston">Weston</a>
+- Eric
+- Darknavi
+- ShadowJonathan
+- Mormaer
