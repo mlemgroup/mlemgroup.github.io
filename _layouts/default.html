@@ -28,9 +28,13 @@
         {% endif %}
 
         {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+        <p class="view"><a href="{{ site.github.owner_url }}">View on Github</a></p>
         {% endif %}
-        
+
+        {% if site.testflight %}
+        <p class="view"><a href="{{ site.testflight }}">Join our TestFlight</a></p>
+        {% endif %}
+
         <!-- <a href="about:blank"><img src="images/AppStore.svg" /></a> -->
       </header>
       <section>

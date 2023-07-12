@@ -27,8 +27,10 @@ Live chat in our [Matrix chat room](https://matrix.to/#/#mlemapp:matrix.org).
 ## License
 Mlem is fully open-source, licensed under GPL 3.0 with an addendum for compliance with the Apple App Store. See LICENSE for details.
 
-We accept pull requests and have love external contributions. Are we missing a feature, let us know on our [Issue Tracker](https://github.com/mlemgroup/mlemgroup.github.io/issues). Don't want to deal with the AppStore
-or TestFlight? Download the code and install the latest build for yourself. 
+We accept pull requests and have love external contributions. Are we missing a feature, let us know on our [Issue Tracker](https://github.com/mlemgroup/mlemgroup.github.io/issues). 
+
+Don't want to deal with the AppStore or TestFlight? Download the code and install the latest build for 
+yourself. 
 
 ## Requirements
 Mlem supports any iPhone running iOS 16 and later.
