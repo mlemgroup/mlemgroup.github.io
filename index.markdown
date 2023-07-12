@@ -5,12 +5,12 @@
 layout: default
 ---
 
-![Large Posts](images/IMG_1159.PNG){: width="25%" }
-![Compact Posts](images/IMG_1160.PNG){: width="25%" }
-![Headline Posts](images/IMG_1164.PNG){: width="25%" }
-![Inbox](images/IMG_1161.PNG){: width="25%" }
-![Customization](images/IMG_1162.PNG){: width="25%" }
-![Alternative Icons](images/IMG_1163.PNG){: width="25%" }
+![Large Posts](images/IMG_1159.PNG){: width="30%" }
+![Compact Posts](images/IMG_1160.PNG){: width="30%" }
+![Headline Posts](images/IMG_1164.PNG){: width="30%" }
+![Inbox](images/IMG_1161.PNG){: width="30%" }
+![Customization](images/IMG_1162.PNG){: width="30%" }
+![Alternative Icons](images/IMG_1163.PNG){: width="30%" }
 
 ## What is Mlem?
 Mlem is a client for [Lemmy](https://join-lemmy.org), a Reddit-esque, open-source link aggregator. With Mlem, you can effortlessly participate in the conversation across all Lemmy servers. 
