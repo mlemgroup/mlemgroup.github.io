@@ -43,7 +43,6 @@ As of now, Mlem is still in beta. While it already has many core features, there
 - <a rel="me" href="https://github.com/EricBAndrews">Eric</a>
 - <a rel="me" href="https://github.com/JakeShirley">Jake Shirley (darknavi)</a>
 - <a rel="me" href="https://github.com/ShadowJonathan">ShadowJonathan</a>
-- <a rel="me" href="https://github.com/mormaer">Mormaer</a>
 
 ## Other Contributors
 We love community contributions, check out our github page for the other developers who have helped make this app possible.
