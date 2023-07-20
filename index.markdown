@@ -35,9 +35,6 @@ yourself.
 ## Requirements
 Mlem supports any iPhone running iOS 16 and later.
 
-## Roadmap
-As of now, Mlem is still in beta. While it already has many core features, there is still a lot to do. Follow me on my socials to always be up-to-date on Mlem's development!
-
 ## The Mlem Group
 - <a rel="me" href="https://techhub.social/@weston">Weston</a>
 - <a rel="me" href="https://github.com/EricBAndrews">Eric</a>
