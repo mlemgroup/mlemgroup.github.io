@@ -1,4 +1,4 @@
-import Link from "next/link"
+import Link from "next/link";
 
 export function Footer() {
   return (
@@ -7,13 +7,28 @@ export function Footer() {
         <div className="flex justify-center items-center space-x-4 text-sm text-zinc-600 dark:text-zinc-400">
           <span>Mlem</span>
           <span className="text-zinc-400 dark:text-zinc-600">&middot;</span>
-          <Link href="/faq" className="hover:text-zinc-900 dark:hover:text-zinc-100">FAQ</Link>
+          <Link
+            href="/faq"
+            className="hover:text-zinc-900 dark:hover:text-zinc-100"
+          >
+            FAQ
+          </Link>
           <span className="text-zinc-400 dark:text-zinc-600">&middot;</span>
-          <Link href="/eula" className="hover:text-zinc-900 dark:hover:text-zinc-100">EULA</Link>
+          <Link
+            href="/eula"
+            className="hover:text-zinc-900 dark:hover:text-zinc-100"
+          >
+            EULA
+          </Link>
           <span className="text-zinc-400 dark:text-zinc-600">&middot;</span>
-          <Link href="/privacy" className="hover:text-zinc-900 dark:hover:text-zinc-100">Privacy Policy</Link>
+          <Link
+            href="/privacy"
+            className="hover:text-zinc-900 dark:hover:text-zinc-100"
+          >
+            Privacy Policy
+          </Link>
         </div>
-        
+
         <p className="text-sm text-zinc-600 dark:text-zinc-400 mt-2">
           Made with ❤️
         </p>
@@ -22,5 +37,5 @@ export function Footer() {
         </p>
       </div>
     </footer>
-  )
+  );
 }

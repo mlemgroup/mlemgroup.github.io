@@ -1,37 +1,34 @@
-"use client"
+"use client";
 
-import type React from "react"
+import type React from "react";
 
-import { useState, useEffect } from "react"
-import Link from "next/link"
-import { usePathname } from "next/navigation"
-import { cn } from "@/lib/utils"
+import Link from "next/link";
+import { usePathname } from "next/navigation";
+import { cn } from "@/lib/utils";
 
 export function Navbar() {
-  const pathname = usePathname()
-  const [scrolled, setScrolled] = useState(false)
-
-  useEffect(() => {
-    const handleScroll = () => {
-      setScrolled(window.scrollY > 20)
-    }
-
-    window.addEventListener("scroll", handleScroll)
-    return () => window.removeEventListener("scroll", handleScroll)
-  }, [])
+  const pathname = usePathname();
 
   return (
     <div className="sticky top-0 z-50 bg-zinc-50/80 dark:bg-zinc-900/80 backdrop-blur-sm border-b border-zinc-200 dark:border-zinc-800">
       <div className="container mx-auto max-w-6xl">
         <div className="flex items-center justify-between h-16 px-4">
           <Link href="/" className="font-bold text-xl flex items-center">
-            <img src="/mlem-icon.jpeg" alt="Mlem" className="h-7 w-7 rounded-sm mr-2" /> Mlem
+            <img
+              src="/mlem-icon.jpeg"
+              alt="Mlem"
+              className="h-7 w-7 rounded-sm mr-2"
+            />{" "}
+            Mlem
           </Link>
           <nav className="flex items-center gap-1 md:gap-2">
             <NavLink href="/" active={pathname === "/"}>
               Home
             </NavLink>
-            <NavLink href="/faq" active={pathname === "/faq" || pathname.startsWith("/faq/")}>
+            <NavLink
+              href="/faq"
+              active={pathname === "/faq" || pathname.startsWith("/faq/")}
+            >
               FAQ
             </NavLink>
             <a
@@ -46,10 +43,18 @@ export function Navbar() {
         </div>
       </div>
     </div>
-  )
+  );
 }
 
-function NavLink({ href, active, children }: { href: string; active: boolean; children: React.ReactNode }) {
+function NavLink({
+  href,
+  active,
+  children,
+}: {
+  href: string;
+  active: boolean;
+  children: React.ReactNode;
+}) {
   return (
     <Link
       href={href}
@@ -62,5 +67,5 @@ function NavLink({ href, active, children }: { href: string; active: boolean; ch
     >
       {children}
     </Link>
-  )
+  );
 }
